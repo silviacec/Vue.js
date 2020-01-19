@@ -14,6 +14,5 @@ Attention: N'utiliser qu'une variable pour le nom et le prénom
 
 ## Events & watcher
 1. Ajouter un bouton permettant de rendre premium ou non les utilisateurs 
-2. Afficher le nom de l'utilisateur en doré s'il est premium en utilisant un watcher
-3. Créer une méthode pour éviter les instructions de code dans le template HTML
-4. Ajouter un custom-event de votre choix à remonter au composant parent en imaginant une fonctionnalité
+2. Créer une méthode pour éviter les instructions de code dans le template HTML
+3. Ajouter un custom-event de votre choix à remonter au composant parent en imaginant une fonctionnalité
